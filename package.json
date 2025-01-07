@@ -30,7 +30,7 @@
     "build:local": "npm run build"
   },
   "dependencies": {
-    "@sentry/electron": "^4.3.0",
+    "@sentry/electron": "^4.24.0",
     "cookie": "^0.5.0",
     "dialogs": "^2.0.1",
     "dotenv": "^16.0.3",
